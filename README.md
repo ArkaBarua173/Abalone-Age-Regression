@@ -3,7 +3,7 @@
 ## 🔗 Link - (https://www.kaggle.com/code/arkabarua173/regression-of-abalone-age)
 
 ## 📌 Objective:
-- Predicting the probabilities of exiting the bank.
+- Predicting the age of Abalone.
 
 ## 📄 Dataset Description:
 - **Sex**: Sex of the Abalone - Male(M), Female(F), Infant(I).
